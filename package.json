@@ -13,7 +13,7 @@
     "commitmsg": "make commitmsg",
     "precommit": "make precommit",
     "prepublishOnly": "make prepublishOnly",
-    "semantic-release": "semantic-release",
+    "semantic-release": "semantic-release pre && npm publish --access=public && semantic-release post",
     "travis-deploy-once": "travis-deploy-once"
   },
   "devDependencies": {
