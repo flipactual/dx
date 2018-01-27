@@ -8,8 +8,8 @@ node_js:
   - '9'
   - '8'
 script: make ci
-after_success:
-  - npm run travis-deploy-once "npm run semantic-release"
-branches:
-  except:
-    - /^v\d+\.\d+\.\d+$/
+jobs:
+  include:
+    - if: type != pull_request AND branch = master
+      stage: Publish to NPM
+      script: yarn semantic-release
