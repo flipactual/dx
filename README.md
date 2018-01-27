@@ -4,7 +4,7 @@
   Its template can be found at .emdaer/README.emdaer.md
 -->
 
-<h1 id="-actual-dx-latest-release-https-img-shields-io-npm-v-actual-dx-svg-style-flat-square-https-travis-ci-org-emdaer-emdaer-travis-https-img-shields-io-travis-flipactual-dx-svg-style-flat-square-https-travis-ci-org-emdaer-emdaer-">@actual/dx · <a href="https://travis-ci.org/emdaer/emdaer/"><img src="https://img.shields.io/npm/v/@actual/dx.svg?style=flat-square" alt="Latest Release"></a> <a href="https://travis-ci.org/emdaer/emdaer/"><img src="https://img.shields.io/travis/flipactual/dx.svg?style=flat-square" alt="Travis"></a></h1>
+<h1 id="-actual-dx-latest-release-https-img-shields-io-npm-v-actual-dx-svg-style-flat-square-https-www-npmjs-com-package-actual-dx-travis-https-img-shields-io-travis-flipactual-dx-svg-style-flat-square-https-travis-ci-org-flipactual-dx-">@actual/dx · <a href="https://www.npmjs.com/package/@actual/dx"><img src="https://img.shields.io/npm/v/@actual/dx.svg?style=flat-square" alt="Latest Release"></a> <a href="https://travis-ci.org/flipactual/dx"><img src="https://img.shields.io/travis/flipactual/dx.svg?style=flat-square" alt="Travis"></a></h1>
 <p>A reference for DX in @actual projects</p>
 
 <h2 id="unicorngetter">unicornGetter</h2>

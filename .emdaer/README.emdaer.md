@@ -6,11 +6,11 @@
   - shields:
       - alt: 'Latest Release'
         image: 'npm/v/@actual/dx.svg'
-        link: 'https://travis-ci.org/emdaer/emdaer/'
+        link: 'https://www.npmjs.com/package/@actual/dx'
         style: 'flat-square'
       - alt: 'Travis'
         image: 'travis/flipactual/dx.svg'
-        link: 'https://travis-ci.org/emdaer/emdaer/'
+        link: 'https://travis-ci.org/flipactual/dx'
         style: 'flat-square'
 -->
 
