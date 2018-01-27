@@ -1,9 +1,9 @@
-.PHONY: ci commitlint commitlint-cit commitmsg compile emdaer lint lint-staged preccomit prepublish test type
+.PHONY: ci commitlint commitlint-cit commitmsg compile emdaer lint lint-staged precommit prepublishOnly test type
 
 ci: commitlint-ci lint type test
 commitmsg: commitlint
 precommit: lint-staged type test emdaer
-prepublish: compile
+prepublishOnly: compile
 
 commitlint:
 	./node_modules/.bin/commitlint -e ${GIT_PARAMS}
